@@ -1,4 +1,4 @@
-# techshop
+# Tech-Shop
 
 HTML & CSS project
 
